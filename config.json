@@ -1,0 +1,9 @@
+{
+    "database": {
+      "host": "localhost",
+      "username": "basit",
+      "password": "1104",
+      "dbname": "crud_app"
+    }
+  }
+  

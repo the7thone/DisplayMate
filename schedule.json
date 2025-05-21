@@ -1,0 +1,44 @@
+{
+    "Monday": {
+        "is_holiday": false,
+        "has_exams": false,
+        "has_extra_curricular": true,
+        "special_events": false
+    },
+    "Tuesday": {
+        "is_holiday": false,
+        "has_exams": true,
+        "has_extra_curricular": true,
+        "special_events": true
+    },
+    "Wednesday": {
+        "is_holiday": false,
+        "has_exams": true,
+        "has_extra_curricular": false,
+        "special_events": false
+    },
+    "Thursday": {
+        "is_holiday": true,
+        "has_exams": true,
+        "has_extra_curricular": true,
+        "special_events": true
+    },
+    "Friday": {
+        "is_holiday": false,
+        "has_exams": false,
+        "has_extra_curricular": true,
+        "special_events": true
+    },
+    "Saturday": {
+        "is_holiday": true,
+        "has_exams": false,
+        "has_extra_curricular": false,
+        "special_events": false
+    },
+    "Sunday": {
+        "is_holiday": true,
+        "has_exams": false,
+        "has_extra_curricular": false,
+        "special_events": false
+    }
+}
